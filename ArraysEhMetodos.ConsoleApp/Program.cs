@@ -16,6 +16,8 @@ namespace ArraysEhMetodos.ConsoleApp
 {
     internal class Program
     {
+        
+
         static void Main(string[] args)
         {
             int[] sequenciaNumeros = new int[]
